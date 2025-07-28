@@ -1,0 +1,23 @@
+Task 5 – Interactive Business Dashboard in Streamlit
+
+This project focuses on building an interactive business intelligence dashboard using Streamlit and Plotly. The dashboard allows users to visualize sales and performance metrics based on data from the Global Superstore dataset.
+
+Key Features:
+- Filters by region, segment, and product category
+- Interactive KPIs such as total sales, profit, and quantity sold
+- Dynamic bar charts, pie charts, and line plots using Plotly Express
+- Real-time updates on selection change
+- Clean UI with sidebar for filter controls
+
+Tools & Libraries Used:
+- Python
+- Streamlit
+- Pandas
+- Plotly Express
+- Global Superstore dataset (CSV)
+
+Live Application:
+🔗 https://huggingface.co/spaces/Anila12/global-superstore-dashboard1
+
+Note:
+To run this locally, install requirements from `requirements.txt` and run `streamlit run app.py`
